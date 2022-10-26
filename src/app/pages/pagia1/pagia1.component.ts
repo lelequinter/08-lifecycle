@@ -10,6 +10,8 @@ export class Pagia1Component
   implements OnInit, OnChanges, DoCheck, AfterContentInit, AfterContentChecked,
   AfterViewInit, AfterViewChecked, OnDestroy {
 
+    nombre: string = 'Leyder'
+
   constructor() {
     console.log('Constructor');
 
