@@ -46,5 +46,7 @@ export class Pagia1Component
     console.log('ngOnInit');
   }
 
+  guardar(){
 
+  }
 }
